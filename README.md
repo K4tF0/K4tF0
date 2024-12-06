@@ -1,3 +1,5 @@
+👋 Hey there, I’m Kat!
+
 🌱 A Little About Me
 I’m just starting my journey in the world of front-end development, and I’m loving every step of it. Right now, I’m learning the basics like HTML, CSS, and JavaScript. My dream? To build beautiful, functional websites for small businesses and eventually work as a freelance developer.
 
